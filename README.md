@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###    Links
+###    <pre>   Links   </pre>
 [Portfolio](https://benjaminwalkerbond.com/)
 |
 [LinkedIn](https://www.linkedin.com/in/benjamin-walker-bond)
