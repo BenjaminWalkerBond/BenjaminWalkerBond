@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [Portfolio](https://benjaminwalkerbond.com/)|[LinkedIn](https://www.linkedin.com/in/benjamin-walker-bond) 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BenjaminWalkerBond)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminWalkerBond)](https://github.com/anuraghazra/github-readme-stats)
