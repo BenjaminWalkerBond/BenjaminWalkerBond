@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###   Links  
-[Portfolio](https://benjaminwalkerbond.com/)|[LinkedIn](https://www.linkedin.com/in/benjamin-walker-bond) 
+[Portfolio](https://benjaminwalkerbond.com/) | [LinkedIn](https://www.linkedin.com/in/benjamin-walker-bond) 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BenjaminWalkerBond)
 
