@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a Cloud Engineer based out of San Marcos, TX.
 <!--
 **BenjaminWalkerBond/BenjaminWalkerBond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
